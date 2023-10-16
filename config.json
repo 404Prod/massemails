@@ -1,0 +1,14 @@
+{
+    "files": {
+        "credentials": "credentials.json",
+        "listing": "listing.ods"
+    },
+    "folders": {
+        "data": "photos"
+    },
+    "mail": {
+        "subject": "Votre photo d'identité du 16/10",
+        "body": "Bonjour, \n \nNous vous remercions de trouver ci-joint votre photo d'identité prise sur notre stand ce lundi 16 Octobre.\n\nEn vous souhaitant bonne réception.\n404Prod",
+        "attachment": "photo_identite.jpeg"
+    }
+}
